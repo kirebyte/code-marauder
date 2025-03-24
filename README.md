@@ -85,3 +85,7 @@ There is currently no contribution guide yet. PRs and ideas are welcome!
 - [ ] Write `Makefile` for build/install automation
 - [ ] Create `Dockerfile` for containerized usage
 - [ ] Add simple web viewer for the output file (static HTML)
+
+# Donating 💜
+
+Do you like my work? Please consider [buying me a coffee](https://buymeacoffee.com/kirebyte)
